@@ -6,5 +6,5 @@ Here is a small project that investigates the
 and gleans a few insights.
 
 You can read the full report on IPython Notebook Viewer [here]
-(http://nbviewer.ipython.org/github/srisays/ipynb/blob/master/sf_restaurant_health_scores/sf_restaurant_health_scores.ipynb)
+(http://nbviewer.ipython.org/github/srisays/data-projects/blob/master/sf_restaurant_health_scores/sf_restaurant_health_scores.ipynb)
 
